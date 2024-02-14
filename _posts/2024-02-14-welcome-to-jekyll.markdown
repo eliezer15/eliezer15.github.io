@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-02-14 18:10:45 -0500
-categories: jekyll update
+title:  "Bored"
+date:   2020-08-23 21:21:21 +0530
+tags: [fiction]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+The air was slightly breezy, a noisy fan moving it about rather unsuccessfully in the other room. A constant buzz of the crickets in the night was interrtupted by dog howls. She lay in bed, eyes closed, observing all the sounds. Noticing. Remembering. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+>“Just as you first saw it. ”
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+She opened her eyes, satisfied. She sat up and looked at the curtains, silk sheets waving about in the gentle breeze of the open window. They were still before, she remembered. No worries, they will be still again. 
 
-Jekyll also offers powerful support for code snippets:
+She stood up, and pulled out a wet wipe. Again closing her eyes she replayed everything that had happened. Objects she touched, places she stood in. She went backwards, retracing her steps, working methodically. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+>“No signs. Nothing amiss.”
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+She was never there. As she stepped out of the window she looked at Nisha on the bed, as though sleeping. Tomorrow morning the maid will ring the bell at 0600, and again at 0603. Nisha will not open the door. The milkman would leave the milk by her doorstep at 0700, as he does. Tomorrow morning Nisha will not go to office. She will get two messages around noon from her boss asking about the code review, which she won’t reply to. Tomorrow evening she will get a voicemail from her mother, wondering why Nisha didn’t call her that morning. By tomorrow night she would have 7 missed calls and 12 unresponded messages. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+By the time she’s found that would only go up to 13 calls and 17 messages. 
+
+She closed the window gently, and watched the curtains grow still. Outside the air was chilly, and a dog howl chorus had just started. She slipped her hand into her pocket and found the lock of hair. As she rolled it around her fingers she took a deep breath of the clean sharp air. 
+
+>And she realised she still felt empty and bored. 

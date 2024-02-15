@@ -1,12 +1,9 @@
 ###########
-# site.title
 theme: jekyll-bear-theme
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Eli Encarnacion
+description: Eli Encarnacion's personal website
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
-# host: 0.0.0.0
-
+url: "eliezer15.github.io" # the base hostname & protocol for your site
 
 #########################
 # more settings
@@ -45,7 +42,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+permalink: /posts/:slug
 timezone: America/New_York
 future: false
 
@@ -55,13 +52,8 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-
-# Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
-  
+  About: /about
+  Now: /now
 
-# Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
+Blog: /posts
